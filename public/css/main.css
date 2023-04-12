@@ -62,12 +62,6 @@ button {
 	appearance: none;
 	touch-action: manipulation;
 }
-button:focus-visible {
-	box-shadow: 0 0 0 3px lightskyblue;
-}
-button:hover {
-	box-shadow: 0 2px 2px 0  #cfcfcf, 0 3px 6px 0  #cfcfcf;
-}
 button:active {
 	background-color: #efefef !important;
 }
